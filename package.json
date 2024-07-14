@@ -1,9 +1,12 @@
 {
+  "homepage": "https://AnandJha1321.github.io/anandjha-portfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "start": "react-scripts start",
     "build": "vite build",
@@ -11,6 +14,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scroll": "^1.9.0",
@@ -30,4 +34,3 @@
     "vite": "^5.3.1"
   }
 }
-
