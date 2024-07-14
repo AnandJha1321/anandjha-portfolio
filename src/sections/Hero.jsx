@@ -30,7 +30,7 @@ const Hero = () => {
       </div>
 
       <div className='absolute md:left-[650px] md:bottom-16 opacity-60 sm:opacity-100'>
-      <img src="src/assets/finaldone.png" 
+      <img src="dist\assets\finaldone.png" 
         className='min-h-screen rounded-xl shadow-lg object-cover  h-full'  alt="" />
       </div>
 
