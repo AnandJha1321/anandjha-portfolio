@@ -13,7 +13,8 @@ export const ProjectsDetails = [
 
     {
         link: 'https://anandjhaa.com/portfolio-lazarev-agency-home-page-destructure/',
-        image: '/anandjha-portfolio/assets/lazarev.png',
+        original: "https://www.lazarev.agency/",
+        image: '/anandjha-portfolio/assets/Lazarev.png',
         button1: { text: 'Original Website', color: 'bg-green-800' },
         button2: { text: 'Preview', color: 'bg-green-800' },
         description: 'Lazarev is an Agency Website, I replicated this uisng Locomotive for smooth srcolling, GSAP, and CSS animations',
@@ -22,6 +23,7 @@ export const ProjectsDetails = [
 
     {
         link: 'https://anandjhaa.com/sundown-studio-home-page-destructure/',
+        original: "https://www.sundown-studio.com/",
         image: '/anandjha-portfolio/assets/sundown.png',
         button1: { text: 'Original Website', color: 'bg-orange-800' },
         button2: { text: 'Preview', color: 'bg-orange-800' },
@@ -31,7 +33,7 @@ export const ProjectsDetails = [
     },
 
     {
-        link: '',
+        link: 'https://anandjha1321.github.io/Dice-Game/',
         image: '/anandjha-portfolio/assets/diceGame.png',
         button1: { text: 'Anand Jha', color: 'bg-gray-900' },
         button2: { text: 'Preview', color: 'bg-gray-900' },
@@ -41,7 +43,7 @@ export const ProjectsDetails = [
     },
 
     {
-        link: '',
+        link: 'https://anandjha1321.github.io/TodoApp/',
         image: '/anandjha-portfolio/assets/Todo (2).png',
         button1: { text: 'Anand Jha', color: 'bg-[#172842]' },
         button2: { text: 'Preview', color: 'bg-[#172842]' },
@@ -51,7 +53,7 @@ export const ProjectsDetails = [
     },
 
     {
-        link: '',
+        link: 'https://anandjha1321.github.io/Password-Generator/',
         image: '/anandjha-portfolio/assets/pass.png',
         button1: { text: 'Anand', color: 'bg-blue-300' },
         button2: { text: 'Visit', color: 'bg-blue-300' },

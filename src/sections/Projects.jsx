@@ -13,7 +13,7 @@ const Projects = () => {
         <div className="bg-black text-white px-8">
             {ProjectsDetails.map((project, index) => (
             <div key={index} className="mb-10 md:mb-32 md:px-20 ">
-                <a href={project.link} target='_blank'>
+                <a href={project.link}  target='_blank' rel="noopener noreferrer">
                 <img 
                 src={project.image} 
                 alt={`Project ${index + 1}`} 
@@ -25,10 +25,10 @@ const Projects = () => {
                 </div>
             <div className="flex space-x-4 justify-between">
                 <div className='space-x-4 mt-2'>
-                <a href={project.link} className={`p-1 px-2 text-sm  rounded ${project.button1.color}`}>
+                <a href={project.original} className={`p-1 px-2 text-sm  rounded ${project.button1.color}`} target='_blank' rel="noopener noreferrer">
                     {project.button1.text}
                 </a>
-                <a href={project.link} className={`p-1 px-2 text-sm rounded ${project.button2.color}`}>
+                <a href={project.link} className={`p-1 px-2 text-sm rounded ${project.button2.color}`} rel="noopener noreferrer">
                     {project.button2.text}
                 </a>
                 </div>
