@@ -1,5 +1,5 @@
 import React from 'react'
-import { ProjectsDetails } from '../custom/custom'
+import { ProjectsDetails } from '../custom/projectData'
 
 const Projects = () => {
   return (

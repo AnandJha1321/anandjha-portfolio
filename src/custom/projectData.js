@@ -13,7 +13,7 @@ export const ProjectsDetails = [
 
     {
         link: 'https://anandjhaa.com/portfolio-lazarev-agency-home-page-destructure/',
-        image: 'src/assets/lazarev.png',
+        image: '/anandjha-portfolio/assets/lazarev.png',
         button1: { text: 'Original Website', color: 'bg-green-800' },
         button2: { text: 'Preview', color: 'bg-green-800' },
         description: 'Lazarev is an Agency Website, I replicated this uisng Locomotive for smooth srcolling, GSAP, and CSS animations',
@@ -22,7 +22,7 @@ export const ProjectsDetails = [
 
     {
         link: 'https://anandjhaa.com/sundown-studio-home-page-destructure/',
-        image: 'src/assets/sundown.png',
+        image: 'anandjha-portfolio/assets/sundown.png',
         button1: { text: 'Original Website', color: 'bg-orange-800' },
         button2: { text: 'Preview', color: 'bg-orange-800' },
         description: 'This is second website I made in learning process, this was made with Locomotive, GSAP, Swiper, CSS Animations',
@@ -32,7 +32,7 @@ export const ProjectsDetails = [
 
     {
         link: '',
-        image: 'src/assets/diceGame.png',
+        image: '/anandjha-portfolio/assets/diceGame.png',
         button1: { text: 'Anand Jha', color: 'bg-gray-900' },
         button2: { text: 'Preview', color: 'bg-gray-900' },
         description: 'A dice game involves players selecting a number and rolling the dice. Correct guesses earn points, while wrong ones result in point deductions. The game includes rules and a reset choice.',
@@ -42,7 +42,7 @@ export const ProjectsDetails = [
 
     {
         link: '',
-        image: 'src/assets/Todo (2).png',
+        image: '/anandjha-portfolio/assets/Todo (2).png',
         button1: { text: 'Anand Jha', color: 'bg-[#172842]' },
         button2: { text: 'Preview', color: 'bg-[#172842]' },
         description: ' A user-friendly application allowing users to create, update, and delete tasks efficiently. This simple app helps manage daily activities with ease, providing an intuitive interface for task management.',
@@ -52,7 +52,7 @@ export const ProjectsDetails = [
 
     {
         link: '',
-        image: 'src/assets/pass.png',
+        image: '/anandjha-portfolio/assets/pass.png',
         button1: { text: 'Anand', color: 'bg-blue-300' },
         button2: { text: 'Visit', color: 'bg-blue-300' },
         description: 'This project is a password generator that creates strong passwords with adjustable length and options to include numbers and special characters. The user-friendly interface includes a slider, checkboxes, and a "Copy" button for convenience.',
