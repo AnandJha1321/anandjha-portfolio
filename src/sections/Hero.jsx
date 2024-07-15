@@ -1,4 +1,5 @@
 import React from 'react';
+import final from "dist\assets\finaldone.png"
 
 const Hero = () => {
   return (
@@ -29,7 +30,7 @@ const Hero = () => {
       </div>
 
       <div className='absolute md:left-[650px] md:bottom-16 opacity-60 sm:opacity-100'>
-      <img src= "anandjha-portfolio/assets/finaldone.png" 
+      <img src= {final} 
         className='min-h-screen rounded-xl shadow-lg object-cover  h-full'  alt="myimage" />
       </div>
 
