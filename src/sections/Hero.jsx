@@ -1,5 +1,4 @@
 import React from 'react';
-import finaldone from "./assets/images/finaldone.png"
 
 const Hero = () => {
   return (
@@ -30,8 +29,8 @@ const Hero = () => {
       </div>
 
       <div className='absolute md:left-[650px] md:bottom-16 opacity-60 sm:opacity-100'>
-      <img src= {finaldone} 
-        className='min-h-screen rounded-xl shadow-lg object-cover  h-full'  alt="" />
+      <img src= "anandjha-portfolio/assets/finaldone.png" 
+        className='min-h-screen rounded-xl shadow-lg object-cover  h-full'  alt="myimage" />
       </div>
 
       
