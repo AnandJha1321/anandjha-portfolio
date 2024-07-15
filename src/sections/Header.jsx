@@ -25,7 +25,7 @@ const Header = () => {
     <header className="font-poppins bg-custom-gradient">
       <nav className="md:flex justify-between items-center w-[92%] mx-auto py-4">
         <div>
-          <h4 className="font-semibold top-3 whitespace-nowrap mt-2 text-white text-sm blur-[0.5px] cursor-pointer">Anand Jha</h4>
+          <h4 className="font-semibold top-3 whitespace-nowrap mt-2 text-white text-sm blur-[0.5px] cursor-pointer inline-block">Anand Jha</h4>
         </div>
 
         <div 
