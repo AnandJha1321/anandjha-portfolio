@@ -1,11 +1,11 @@
 export const logo = [
-    {techno1: 'src/assets/react.svg' },
+    {techno1: '/anandjha-portfolio/assets/react.svg' },
     {techno2: 'https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png'},
     {techno3: 'https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png'},
     {techno4: 'https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png'},
     {techno4: 'https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png'},
     {techno5: 'https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png'},
-    {techno6: 'src/assets/appwrite.svg'},
+    {techno6: '/anandjha-portfolio/assets/appwrite.svg'},
 ]
 
 
@@ -22,7 +22,7 @@ export const ProjectsDetails = [
 
     {
         link: 'https://anandjhaa.com/sundown-studio-home-page-destructure/',
-        image: 'anandjha-portfolio/assets/sundown.png',
+        image: '/anandjha-portfolio/assets/sundown.png',
         button1: { text: 'Original Website', color: 'bg-orange-800' },
         button2: { text: 'Preview', color: 'bg-orange-800' },
         description: 'This is second website I made in learning process, this was made with Locomotive, GSAP, Swiper, CSS Animations',

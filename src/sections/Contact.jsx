@@ -59,7 +59,7 @@ const ContactSection = () => {
           <div>
             <a href="https://www.linkedin.com/in/anand-jha1321/" target='_blank' className="hover:text-purple-500 transition duration-300">
               <div className="text-white-500 mb-2 ">
-                <img src="src/assets/Linkedin(1).png" className='bg-gradient-to-br from-[#200D37] to-[#803BD9]  w-[30vw] sm:w-[12vw] md:w-[60px] 
+                <img src="/anandjha-portfolio/assets/Linkedin(1).png" className='bg-gradient-to-br from-[#200D37] to-[#803BD9]  w-[30vw] sm:w-[12vw] md:w-[60px] 
                 inline-block rounded-full' alt=""  
                 />         
               </div>

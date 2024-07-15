@@ -1,5 +1,5 @@
 import React from 'react'
-import { logo } from '../custom/custom'
+import { logo } from '../custom/projectData'
 import styled from 'styled-components';
 
 
